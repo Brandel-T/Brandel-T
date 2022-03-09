@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brandel-T
-- 👀 I’m interested in Programing, Data science and web development 
+- 👀 I’m interested in programming, Data science and web development 
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me tsagueubrandel@gmail.com
